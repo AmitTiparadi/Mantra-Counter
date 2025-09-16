@@ -20,13 +20,13 @@ The file you download will be something like: `vosk-model-en-us-0.22.zip`
 
 ### 2. Extract and place the model
 
-Unzip the downloaded archive and place the extracted folder **inside** `assets/model/` so your project structure looks like this:
 Before extracting the model, **make sure the following folders exist in your repo root**:
 
 ```text
 assets/
   model/
 ```
+Unzip the downloaded archive and place the extracted folder **inside** `assets/model/` so your project structure looks like this:
 
 ```text
 assets/
